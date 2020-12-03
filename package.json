@@ -1,6 +1,6 @@
 {
   "name": "calculator",
-  "homepage":"http://Samyaryal.github.io/Calculator",
+  "homepage": "http://Samyaryal.github.io/Calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +18,7 @@
     "predploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject" 
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
